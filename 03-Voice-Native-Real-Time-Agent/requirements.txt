@@ -1,0 +1,4 @@
+python-dotenv
+openai
+requests
+# Additional libs like pyaudio or livekit may be needed for hardware access
